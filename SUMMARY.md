@@ -1,6 +1,6 @@
 # Table of contents
 
-- [线上线下混合式金课](README.md)
+- [线上线下混合式金课平台](README.md)
 - [建设背景](jian-she-bei-jing.md)
 - [建设目标](jian-she-mu-biao.md)
 - [建设原则](jian-she-yuan-ze.md)
@@ -9,4 +9,10 @@
   - [课中管理](ke-zhong-guan-li.md)
   - [课后管理](ke-hou-guan-li.md)
   - [教学管理](jiao-xue-guan-li.md)
-- [支撑平台]
+- [平台建设](ping-tai-jian-she.md)
+  - [学习管理系统](xue-xi-guan-li.md)
+  - [评测管理系统](ping-ce-guan-li-xi-tong.md)
+  - [教学管理系统](jiao-xue-guan-li-xi-tong.md)
+  - [题库管理系统](ti-ku-guan-li-xi-tong.md)
+  - [课件发布系统](ke-jian-fa-bu-xi-tong)
+  - [内容管理系统](nei-rong-guan-li-xi-tong.md)
