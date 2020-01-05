@@ -6,7 +6,7 @@ description: 以下图例为功能示意图
 
 #### 课程首页
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 
 #### 课程内容和公告
 
