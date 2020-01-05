@@ -26,7 +26,5 @@
 
 {% page-ref page="ping-tai-jian-she/shi-pin-hu-dong-xi-tong.md" %}
 
-{% page-ref page="ping-tai-jian-she/zhi-hui-ke-tang-xi-tong.md" %}
-
 
 
