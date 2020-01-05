@@ -6,7 +6,7 @@
 * [建设原则](jian-she-yuan-ze.md)
 * [功能需求](gong-neng-xu-qiu/README.md)
   * [课前管理](gong-neng-xu-qiu/ke-qian-guan-li.md)
-  * [课中管理](gong-neng-xu-qiu/ke-zhong-guan-li.md)
+  * [课堂管理](gong-neng-xu-qiu/ke-zhong-guan-li.md)
   * [课后管理](gong-neng-xu-qiu/ke-hou-guan-li.md)
   * [教学管理](gong-neng-xu-qiu/jiao-xue-guan-li.md)
 * [平台建设](ping-tai-jian-she/README.md)
