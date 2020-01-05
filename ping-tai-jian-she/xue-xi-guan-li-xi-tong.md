@@ -4,7 +4,7 @@ description: 以下图例为功能示意图
 
 # 学习管理系统
 
-## 课程首页
+### 课程首页
 
 ![](../.gitbook/assets/image%20%2828%29.png)
 
