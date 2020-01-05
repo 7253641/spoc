@@ -13,8 +13,10 @@
   * [学习管理系统](ping-tai-jian-she/xue-xi-guan-li-xi-tong.md)
   * [评测管理系统](ping-tai-jian-she/ping-ce-guan-li-xi-tong.md)
   * [教学管理系统](ping-tai-jian-she/jiao-xue-guan-li-xi-tong.md)
-  * [题库管理系统](ping-tai-jian-she/ti-ku-guan-li-xi-tong.md)
   * [课件发布系统](ping-tai-jian-she/ke-jian-fa-bu-xi-tong.md)
+  * [题库管理系统](ping-tai-jian-she/ti-ku-guan-li-xi-tong.md)
   * [内容管理系统](ping-tai-jian-she/nei-rong-guan-li-xi-tong.md)
   * [视频互动系统](ping-tai-jian-she/shi-pin-hu-dong-xi-tong.md)
+  * [智慧课堂系统](ping-tai-jian-she/zhi-hui-ke-tang-xi-tong.md)
+* [建设规化](jian-she-gui-hua.md)
 

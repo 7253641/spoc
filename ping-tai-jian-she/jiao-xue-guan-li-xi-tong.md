@@ -1,5 +1,5 @@
 ---
-description: 以下图例均为示意图
+description: 以下图例为功能示意图
 ---
 
 # 教学管理系统
@@ -14,7 +14,7 @@ description: 以下图例均为示意图
 
 #### 编辑课程
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 #### 设置在线练习
 
@@ -30,7 +30,7 @@ description: 以下图例均为示意图
 
 #### 学生分组指导
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
 #### 学生成绩分析
 
