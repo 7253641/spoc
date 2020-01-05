@@ -14,7 +14,7 @@ description: 以下图例为功能示意图
 
 #### 连接评测管理系统中的判题服务器
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2829%29.png)
 
 #### 自动组卷
 
