@@ -20,5 +20,5 @@
   * [智慧课堂系统](ping-tai-jian-she/zhi-hui-ke-tang-xi-tong.md)
 * [建设规化](jian-she-gui-hua.md)
 * [预算分配](yu-suan-fen-pei/README.md)
-  * [第一阶段](yu-suan-fen-pei/di-yi-jie-duan.md)
+  * [第一阶段开发费用](yu-suan-fen-pei/di-yi-jie-duan.md)
 
