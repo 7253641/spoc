@@ -18,7 +18,10 @@
   * [内容管理系统](ping-tai-jian-she/nei-rong-guan-li-xi-tong.md)
   * [视频互动系统](ping-tai-jian-she/shi-pin-hu-dong-xi-tong.md)
   * [智慧课堂系统](ping-tai-jian-she/zhi-hui-ke-tang-xi-tong.md)
-* [建设规化](jian-she-gui-hua.md)
+* [建设规化](jian-she-gui-hua/README.md)
+  * [第一阶段内容](jian-she-gui-hua/di-yi-jie-duan-nei-rong.md)
+  * [第二阶段内容](jian-she-gui-hua/di-er-jie-duan-nei-rong.md)
+  * [第三阶段内容](jian-she-gui-hua/di-san-jie-duan-nei-rong.md)
 * [预算分配](yu-suan-fen-pei/README.md)
-  * [第一阶段开发费用](yu-suan-fen-pei/di-yi-jie-duan.md)
+  * [第一阶段费用](yu-suan-fen-pei/di-yi-jie-duan.md)
 
