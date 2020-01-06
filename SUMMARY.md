@@ -8,7 +8,7 @@
   * [课前管理](gong-neng-xu-qiu/ke-qian-guan-li.md)
   * [课堂管理](gong-neng-xu-qiu/ke-zhong-guan-li.md)
   * [课后管理](gong-neng-xu-qiu/ke-hou-guan-li.md)
-  * [教学管理](gong-neng-xu-qiu/jiao-xue-guan-li.md)
+  * [课程管理](gong-neng-xu-qiu/jiao-xue-guan-li.md)
 * [平台建设](ping-tai-jian-she/README.md)
   * [学习管理系统](ping-tai-jian-she/xue-xi-guan-li-xi-tong.md)
   * [评测管理系统](ping-tai-jian-she/ping-ce-guan-li-xi-tong.md)
